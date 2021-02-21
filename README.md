@@ -7,10 +7,12 @@ und importieren Sie die Datei als Erweiterung.
 Javascript:
 ```Javascript
 Erklearung.writeString(String Text);
+Erklearung.writeInt(Int Zahl);
 ```
 Python:
 ```python
 Erklearung.writeString(String Text)
+Erklearung.writeInt(Int Zahl)
 ```
 Blockly:
-![Bild](docs/Screenshot_20210221_203014.png)
+![](docs/Screenshot_20210221_203014.jpg)
