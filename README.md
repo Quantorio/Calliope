@@ -13,4 +13,4 @@ Python:
 Erklearung.writeString(String Text)
 ```
 Blockly:
-![Bild](docs/blocky.png)
+![](docs/Screenshot_20210221_203014.png)
