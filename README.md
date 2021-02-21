@@ -1,5 +1,5 @@
 # Demonstration für Informatikunterricht
-Demonstration eines Blickes für den Info Unterricht. 
+Demonstration eines Blockes für den Info Unterricht. 
 ## Installation
 Rufen Sie [Makecode](makecode.calliope.cc) auf
 und importieren Sie die Datei als Erweiterung. 
@@ -16,3 +16,5 @@ Erklearung.writeInt(Int Zahl)
 ```
 Blockly:
 ![](docs/Screenshot_20210221_203014.jpg)
+## Code Beispiele
+`Erklearung.writeString("Hello World!");`
