@@ -18,3 +18,5 @@ Blockly:
 ![](docs/Screenshot_20210221_203014.jpg)
 ## Code Beispiele
 `Erklearung.writeString("Hello World!");`
+## Eigene Zeichen
+In der [Datei](src/Creator/Usage.md) zu lesen
