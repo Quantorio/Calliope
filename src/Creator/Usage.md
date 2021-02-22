@@ -2,7 +2,7 @@
 ## Installation
 Herunterladen und in einen Ordner verschieben.
 ## Nutzung
-![](docs/Creator.PNG)
+![](/docs/Creator.PNG)
 Die 5x5 Checkboxen stellen die Matrix da. 
 In dieser werden die LEDs ausgewählt.
 Danach kann mit dem Button die Matrix exportiert werden.
