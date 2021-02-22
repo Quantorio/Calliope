@@ -23,8 +23,11 @@ Erklearung.writeString(String Text)
 Erklearung.writeInt(Int Zahl)
 ```
 Blockly:
+
 ![](docs/Screenshot_20210221_203014.jpg)
 ## Code Beispiele
-`Erklearung.writeString("Hello World!");`
+`Erklearung.writeString("Hello World!");`(Not Working)
 ## Eigene Zeichen
 In der [Datei](src/Creator/Usage.md) zu lesen
+## Fehler
+-Keine doppelten Buchstaben in einem String
