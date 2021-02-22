@@ -1,8 +1,15 @@
 # Demonstration für Informatikunterricht
 Demonstration eines Blockes für den Info Unterricht. 
 ## Installation
+Für Script:
 Rufen Sie [Makecode](makecode.calliope.cc) auf
-und importieren Sie die Datei als Erweiterung. 
+und importieren Sie eine [Datei](
+demonstrationInformatik/src/Importierbar/
+) als Erweiterung. 
+Für Block:
+Eine [Datei](
+demonstrationInformatik/src/Importierbar/
+) als Project öffnen
 ## Usage
 Javascript:
 ```Javascript
