@@ -10,7 +10,7 @@ demonstrationInformatik/src/Importierbar/
 Für Block:
 Eine [Datei](
 demonstrationInformatik/src/Importierbar/
-) als Project öffnen
+) als Projekt öffnen
 ## Usage
 Javascript:
 ```Javascript
