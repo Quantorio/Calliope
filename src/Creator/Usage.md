@@ -1,6 +1,8 @@
 # Anleitung
 ## Installation
-Herunterladen und in einen Ordner verschieben.
+Herunterladen der Dll und der EXE.
+
+Beide müssen in einem Ordner sein.
 ## Nutzung
 ![](/docs/Creator.PNG)
 
