@@ -2,7 +2,7 @@
 Demonstration eines Blockes für den Info Unterricht. 
 ## Installation
 Für Script:
-Rufen Sie [Makecode](makecode.calliope.cc) auf
+Rufen Sie [Makecode](https://makecode.calliope.cc) auf
 und importieren Sie eine [Datei](
 src/Importierbar/
 ) als Erweiterung. 
