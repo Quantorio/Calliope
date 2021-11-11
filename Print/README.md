@@ -24,7 +24,7 @@ Erklearung.writeInt(Int Zahl)
 ```
 Blockly:
 
-![](docs/Screenshot_20210221_203014.jpg)
+![](/docs/Screenshot_20210221_203014.jpg)
 ## Code Beispiele
 `Erklearung.writeString("Hello World!");`(Not Working)
 ## Eigene Zeichen
