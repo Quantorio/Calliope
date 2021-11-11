@@ -1,4 +1,4 @@
-# Informatik Blockly
+# Projekte
 Verschiedene Projekte für den Calliope
 
 ## Zu den Dateien
